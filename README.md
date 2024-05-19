@@ -1,6 +1,6 @@
 "Python quiz game: Answer multiple-choice questions, get instant feedback, and view your score. Educational and interactive. Customize and enjoy!"
 
----
+----
 
 # Text-Based Quiz Game
 
@@ -24,4 +24,4 @@ The code is open-source and available for further customization and enhancement.
 
 Enjoy playing the Python Text-Based Quiz Game, and don't forget to share your results and experiences!
 
----
+----
